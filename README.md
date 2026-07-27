@@ -1,4 +1,4 @@
-# ✈️ SkyIntel – Flight Delay Intelligence Platform
+<img width="1920" height="1475" alt="Route-Analytics-—-SkyIntel" src="https://github.com/user-attachments/assets/e3d44c6f-9b7c-41dd-aa53-b4340258074b" /># ✈️ SkyIntel – Flight Delay Intelligence Platform
 
 SkyIntel is an AI-powered flight delay intelligence platform that predicts flight delays, analyzes airline and airport performance, recommends optimal departure windows, and provides explainable machine learning insights for operational decision-making.
 
@@ -179,53 +179,58 @@ SkyIntel/
 
 ## ✈️ Flight Predictor
 
-![Flight Predictor](screenshots/Flight-Predictor-—-SkyIntel.png)
+<img width="1920" height="897" alt="Flight-Predictor-—-SkyIntel" src="https://github.com/user-attachments/assets/b3e73b2a-b03a-4d5e-9a5b-b97e283802c7" />
+
 
 ---
 
 ## ⚖️ Compare Scenarios
 
-![Compare Scenarios](screenshots/Compare-Scenarios-—-SkyIntel.png)
+<img width="1920" height="1633" alt="Compare-Scenarios-—-SkyIntel" src="https://github.com/user-attachments/assets/716b939b-d923-486e-926d-36a3988da2ef" />
+
 
 ---
 
 ## 💡 Recommendations
 
-![Recommendations](screenshots/Recommendations-—-SkyIntel.png)
+<img width="1920" height="948" alt="Recommendations-—-SkyIntel" src="https://github.com/user-attachments/assets/13536a03-6850-4f3f-bc00-6979b85ceae5" />
+
 
 ---
 
 ## ✈️ Airline Analytics
 
-![Airline Analytics](screenshots/Airline-Analytics-—-SkyIntel(1).png)
+<img width="1920" height="2198" alt="Airline-Analytics-—-SkyIntel" src="https://github.com/user-attachments/assets/37c539ca-e8dc-4420-81d1-4cb64fdbf8ad" />
+
 
 ---
 
 ## 🛫 Airport Analytics
 
-> *(Add Airport Analytics screenshot here.)*
+<img width="1920" height="4156" alt="Airport-Analytics-—-SkyIntel" src="https://github.com/user-attachments/assets/1341138f-9340-4a15-a354-d0991e1fcf6a" />
 
-```md
-![Airport Analytics](screenshots/Airport-Analytics.png)
-```
+
 
 ---
 
 ## 🛣️ Route Analytics
 
-![Route Analytics](screenshots/Route-Analytics-—-SkyIntel.png)
+
+<img width="1920" height="1475" alt="Route-Analytics-—-SkyIntel" src="https://github.com/user-attachments/assets/48e2f82a-f7e8-4e88-b5f3-1c512d7bfedf" />
 
 ---
 
 ## 🧠 Model Insights
 
-![Model Insights](screenshots/Model-Insights-—-SkyIntel.png)
+<img width="1920" height="1250" alt="Model-Insights-—-SkyIntel" src="https://github.com/user-attachments/assets/bee51a8e-67bf-4d7d-9962-3812bd103014" />
+
 
 ---
 
 ## ⚙️ Settings
 
-![Settings](screenshots/Settings-—-SkyIntel.png)
+<img width="1920" height="1278" alt="Settings-—-SkyIntel" src="https://github.com/user-attachments/assets/c4db97f8-c244-4388-a519-53dfc11d065d" />
+
 
 ---
 
@@ -252,8 +257,7 @@ This project is developed for educational and research purposes.
 
 # 👨‍💻 Author
 
-**Ashish Singh**
+**Riya Kumari**
 
-Software Engineer • IIT Delhi Graduate
 
 AI | Machine Learning | Full Stack Development | Data Analytics
