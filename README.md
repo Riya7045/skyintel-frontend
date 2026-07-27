@@ -173,7 +173,7 @@ SkyIntel/
 
 ## 🏠 Dashboard
 
-![Dashboard](screenshots/Dashboard-—-SkyIntel-Flight-Delay-Intelligence.png)
+<img width="1920" height="1360" alt="Dashboard-—-SkyIntel-Flight-Delay-Intelligence" src="https://github.com/user-attachments/assets/267b6684-4ec3-4974-9572-072e3e6f5282" />
 
 ---
 
